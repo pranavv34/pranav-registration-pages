@@ -1,0 +1,39 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f0f0f0;
+}
+
+.box {
+  width: 60%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 2px 2px 2px 3px black;
+}
+
+.form-title {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: underline;
+}
+
+.required {
+  color: red;
+}
+
+button {
+  background-color: darkslateblue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+.entries-title {
+  text-align: center;
+  color: darkslateblue;
+}
